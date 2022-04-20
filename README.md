@@ -1,2 +1,2 @@
-# Roberts-phyton-project
+# Roberts-python-project
 Project BMI calculator
